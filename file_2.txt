@@ -1,0 +1,57 @@
+====================================
+       OUR SOLAR SYSTEM — FACTS
+====================================
+
+THE SUN
+-------
+- Type: G-type main-sequence star
+- Age: ~4.6 billion years
+- Diameter: 1,392,700 km
+- Surface Temperature: ~5,500°C
+- Core Temperature: ~15,000,000°C
+
+THE PLANETS
+-----------
+1. Mercury
+   - Distance from Sun: 57.9 million km
+   - Moons: 0
+   - Day length: 59 Earth days
+   - Year length: 88 Earth days
+
+2. Venus
+   - Distance from Sun: 108.2 million km
+   - Moons: 0
+   - Hottest planet (~465°C average)
+   - Rotates in reverse direction
+
+3. Earth
+   - Distance from Sun: 149.6 million km
+   - Moons: 1
+   - Only known planet with life
+   - 71% surface covered by water
+
+4. Mars
+   - Distance from Sun: 227.9 million km
+   - Moons: 2 (Phobos, Deimos)
+   - Home to Olympus Mons (tallest volcano in solar system)
+
+5. Jupiter
+   - Distance from Sun: 778.5 million km
+   - Moons: 95 known
+   - Largest planet — 1,300 Earths could fit inside
+
+6. Saturn
+   - Distance from Sun: 1.43 billion km
+   - Moons: 146 known
+   - Famous for its stunning ring system
+
+7. Uranus
+   - Distance from Sun: 2.87 billion km
+   - Rotates on its side (98° axial tilt)
+   - Has 13 known rings
+
+8. Neptune
+   - Distance from Sun: 4.5 billion km
+   - Fastest winds in the solar system (~2,100 km/h)
+   - 1 year = 165 Earth years
+
